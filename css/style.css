@@ -41,6 +41,7 @@ nav ul li{
     display: inline;
     list-style: none;
     line-height: 80px;
+    margin-left: 15px;
 }
 
 nav ul li:hover{
