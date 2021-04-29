@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: yellow;
+    height: 80px;
+}
+
+.prova-gratuita{
+    background-color: lightblue;
+    height: 600px;  
+}
+
+.piano-business{
+    background-color: lightsalmon;
+    height: 800px;
+}
+
+.entreprise{
+    background-color: lightgreen;
+    height: 300px;
+}
+
+.dropbox-partners{
+    background-color: lightslategray;
+    height: 600px;
+}
+
+.operazioni-dropbox-business{
+    background-color: rgb(224, 72, 98); 
+    height: 1000px;
+}
+
+.team-dropbox{
+    background-color: violet;
+    height: 250px;
+}
+
+.overview-team{
+    background-color: royalblue;
+    height: 500px;
+}
+
+.dropbox-cta{
+    background-color: turquoise;
+    height: 250px;
+}
+
+.faq{
+    background-color: yellowgreen;
+    height: 800px;
+}
+
+footer{
+    background-color: slateblue;
+    height: 600px;
+}
