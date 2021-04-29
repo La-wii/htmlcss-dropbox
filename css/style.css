@@ -105,14 +105,35 @@ h1{
 .prova-gratuita-img{
     float: left;
     width: 65%;
+    margin-bottom: 60px;
 }
 
 /* inizio piano business */
 .piano-business{
-    background-color: lightsalmon;
     height: 800px;
 }
 
+.piano-business h2{
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.fatturazione{
+    font-size: 20px;
+}
+
+.mensile{
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 150px;
+}
+
+.annuale{
+    display: inline-block;
+}
+
+/* inizio enterprise */
 .entreprise{
     background-color: lightgreen;
     height: 300px;
