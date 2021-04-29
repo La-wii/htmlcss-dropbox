@@ -58,7 +58,7 @@ nav ul li a{
 
 /* inizio prova gratuita */
 .prova-gratuita{
-    background-color: lightblue;
+    background-color: #b4d0e7;
     height: 600px;  
 }
 
@@ -70,7 +70,8 @@ h1{
 
 /* inizio prova-gratuita-text */
 .prova-gratuita-text{
-    width: 35%;
+    width: 32%;
+    float: left;
 }
 .intro{
     font-size: 25px;
@@ -88,7 +89,17 @@ h1{
     font-size: 14px;
 }
 
+.freccia{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
 /* inizio prova-gratuita-img */
+
+.prova-gratuita-img{
+    float: left;
+    width: 65%;
+}
 
 /* inizio piano business */
 .piano-business{
