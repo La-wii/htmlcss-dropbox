@@ -57,6 +57,7 @@ nav ul li a{
 
 .btn{
     background-color: #0061ff;
+    color: white;
 }
 
 .btn-inizia{
@@ -122,6 +123,7 @@ h1{
 
 .fatturazione{
     font-size: 20px;
+    margin-bottom: 50px;
 }
 
 .mensile{
@@ -141,17 +143,63 @@ h1{
 }
 .col{
     float: left;
-    background-color: purple;
+    background-color: lightgray;
     width: 30%;
-    height: 600px;
+    height: 900px;
     margin-top: 50px;
-    padding: 10px;
+    border: 1px solid gray;
 }
 
 .standard{
     margin-left: 5%;
     margin-right: 5%;
 }
+.col-header{
+    text-align: center;
+    border-bottom: 2px solid grey;
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+.col-text{
+    padding: 40px;
+}
+
+.top-col{
+    margin-bottom: 30px;
+}
+
+.piani h3{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.gray{
+    color: gray;
+}
+
+.btn-gratis-30{
+    background-color: #0061ff;
+    color: white;
+    display: inline-block;
+    padding: 7px 15px;
+    text-decoration: none;
+}
+
+.blue-link{
+    color: #0061ff;
+}
+
+.brd-btm{
+    padding-bottom: 30px;
+    border-bottom: 1px solid gray;
+}
+
+.col h4{
+    margin-top: 60px;
+    font-size: 18px;
+}
+
+
 /* inizio enterprise */
 .entreprise{
     background-color: lightgreen;
