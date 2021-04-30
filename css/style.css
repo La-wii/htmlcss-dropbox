@@ -161,7 +161,8 @@ h1{
 }
 
 .top-col{
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
+    margin-bottom: 45px;
 }
 
 .col-fix-hgt{
