@@ -289,14 +289,48 @@ h1{
 
 /* inizio operazioni */
 .operazioni-dropbox-business{
-    background-color: rgb(224, 72, 98); 
-    height: 1000px; 
-    padding-top: 50px;
+    padding-top: 80px;
 }
 
 .operazioni-dropbox-business h2{
     font-size: 65px;
     margin-bottom: 30px;
+}
+
+/* inizio colonne operazioni */
+.row{
+    margin-bottom: 50px
+}
+
+.col-operations{
+    float: left;
+    width: 30%;
+    height: 600px;
+    padding: 40px;
+}
+
+.col-middle{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.img-col{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.img-col-2{
+    height: 212px;
+    margin: ;
+}
+
+.operazioni-dropbox-business h3{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.operazioni-dropbox-business p{
+    font-size: 20px;
 }
 
 /* inizio team */
