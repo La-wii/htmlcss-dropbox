@@ -252,7 +252,7 @@ h1{
 
 .enterprise-button a{
     text-decoration: none;
-    padding: 5px;
+    padding: 10px 14px;
     background-color: #0061ff;  
     color: white;
     line-height: 50px;
@@ -335,8 +335,18 @@ h1{
 
 /* inizio team */
 .team-dropbox{
-    background-color: violet;
+    /* background-color: violet; */
     height: 250px;
+}
+
+.team-dropbox h2{
+    font-size: 50px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.team-dropbox a{
+    color: #0061ff;
+    font-size: 18px;
 }
 
 .overview-team{
