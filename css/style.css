@@ -148,6 +148,7 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
 }
+
 .col-header{
     text-align: center;
     border-bottom: 2px solid grey;
@@ -201,15 +202,65 @@ h1{
     font-size: 18px;
 }
 
-
 /* inizio enterprise */
 .entreprise{
-    background-color: lightgreen;
     height: 300px;
 }
 
+.enterprise-header{
+    border: 1px solid grey;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+.enterprise-text{
+    float: left;
+    width: 65%;
+    border-left: 1px solid grey;
+    border-bottom: 1px solid grey;
+    height: 235px;
+    padding: 40px;
+}
+
+.enterprise-header{
+    font-size: 20px;
+}
+
+.entreprise h3{
+    font-size: 30px;
+}
+
+.entreprise h5{
+    font-size: 25px;
+}
+
+.entreprise p{
+    font-size: 20px;
+}
+
+.enterprise-button{
+    float: left;
+    border-right: 1px solid gray;
+    margin: 0 auto;
+    width: 35%;
+    text-align: center;
+    padding-top: 50px;
+    height: 235px;
+    border-bottom: 1px solid grey;
+}
+
+.enterprise-button a{
+    text-decoration: none;
+    padding: 5px;
+    background-color: #0061ff;  
+    color: white;
+    line-height: 50px;
+}
+
+/* inizio enterprise partners */
 .dropbox-partners{
-    background-color: lightslategray;
+    background-color: lightsteelblue;
     height: 600px;
 }
 
