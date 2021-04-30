@@ -116,8 +116,7 @@ h1{
 
 /* inizio piano business */
 .piano-business h2{
-    font-size: 55px;
-    text-align: center;
+    font-size: 65px;
     margin-bottom: 30px;
 }
 
@@ -129,7 +128,6 @@ h1{
 .mensile{
     display: inline-block;
     margin-right: 15px;
-    margin-left: 150px;
 }
 
 .annuale{
