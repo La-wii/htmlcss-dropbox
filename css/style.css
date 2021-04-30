@@ -114,10 +114,6 @@ h1{
 }
 
 /* inizio piano business */
-.piano-business{
-    height: 1200px;
-}
-
 .piano-business h2{
     font-size: 55px;
     text-align: center;
@@ -138,6 +134,24 @@ h1{
     display: inline-block;
 }
 
+/* inizio colonne */
+.piani{
+    background-color: pink;
+    height: 1000px;
+}
+.col{
+    float: left;
+    background-color: purple;
+    width: 30%;
+    height: 600px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.standard{
+    margin-left: 5%;
+    margin-right: 5%;
+}
 /* inizio enterprise */
 .entreprise{
     background-color: lightgreen;
