@@ -232,11 +232,11 @@ h1{
 }
 
 .entreprise h5{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .entreprise p{
-    font-size: 20px;
+    font-size: 14px;
 }
 
 .enterprise-button{
@@ -260,15 +260,46 @@ h1{
 
 /* inizio enterprise partners */
 .dropbox-partners{
-    background-color: lightsteelblue;
-    height: 600px;
+    margin-top: 50px;
 }
 
+.dropbox-partners-img{
+    float: left;
+    width: 50%;
+    margin-right: 5%;
+}
+
+.dropbox-partners-text{
+    float: left;
+    width: 45%;
+    padding: 40px;
+}
+
+.dropbox-partners-text h3{
+    font-size: 30px;
+}
+
+.btn-white{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding: 8px 10px;
+    border: 1px solid black;
+}
+
+/* inizio operazioni */
 .operazioni-dropbox-business{
     background-color: rgb(224, 72, 98); 
-    height: 1000px;
+    height: 1000px; 
+    padding-top: 50px;
 }
 
+.operazioni-dropbox-business h2{
+    font-size: 65px;
+    margin-bottom: 30px;
+}
+
+/* inizio team */
 .team-dropbox{
     background-color: violet;
     height: 250px;
