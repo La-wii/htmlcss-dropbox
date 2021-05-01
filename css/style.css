@@ -16,6 +16,11 @@ body {
 /* inizio nav */
 nav{
     height: 80px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .clearfix::after{
@@ -46,7 +51,7 @@ nav ul li{
 
 nav ul li:hover{
     padding-bottom: 30px;
-    border-bottom: 2px solid black;
+    border-bottom: 3px solid black;
 }
 
 nav ul li a{
@@ -389,6 +394,7 @@ h1{
     background-color: white;
     padding: 12px 18px;
 }
+
 /* inizio faq */
 .faq{
     padding-bottom: 150px;   
