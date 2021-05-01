@@ -353,16 +353,43 @@ h1{
     font-size: 18px;
 }
 
+/* inizio overview team */
 .overview-team{
     background-color: royalblue;
     height: 500px;
 }
-
+/* inizio dropbox cta */
 .dropbox-cta{
-    background-color: turquoise;
-    height: 250px;
+    background-color: #b4d0e7;
+    height: 280px;
 }
 
+.titolo-cta{
+    float: left;
+    width: 65%;
+    margin-right: 5%;
+}
+
+.titolo-cta h2{
+    font-size: 55px;
+    padding-top: 94px;
+    color: #61082b;
+}
+
+.btn-cta{
+    float: left;  
+    width: 30%;  
+    text-align: center;
+    height: 280px;
+    line-height: 280px;
+}
+.btn-cta a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 12px 18px;
+}
+/* inizio faq */
 .faq{
     background-color: yellowgreen;
     height: 800px;
