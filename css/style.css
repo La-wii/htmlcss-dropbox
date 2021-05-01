@@ -406,7 +406,32 @@ h1{
     margin-top: 35px;
 }
 
+/* inizio footer */
 footer{
-    background-color: slateblue;
-    height: 600px;
+    background-color: black;
+    color: white;
+    height: 700px;
 }
+
+.col-footer{
+    float: left;
+    width: 20%;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+footer h4{
+    font-size: 20px;
+}
+
+footer ul li{
+    list-style: none;
+    padding-bottom: 25px;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
