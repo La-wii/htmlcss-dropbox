@@ -87,6 +87,11 @@ h1{
     padding-bottom: 20px;
 }
 
+.prova-gratuita span a{
+    color: black;
+}
+
+
 /* inizio prova-gratuita-text */
 .prova-gratuita-text{
     width: 32%;
