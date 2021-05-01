@@ -60,6 +60,8 @@ nav ul li a{
     margin-right: 20px;
 }
 
+
+
 .btn{
     background-color: #0061ff;
     color: white;
@@ -75,13 +77,13 @@ nav ul li a{
 /* inizio prova gratuita */
 .prova-gratuita{
     background-color: #b4d0e7;
-    height: 600px;  
+    height: 700px;  
 }
 
 h1{
     font-size: 68px;
     font-weight: 800;
-    padding-top: 20px;
+    padding-top: 100px;
     padding-bottom: 20px;
 }
 
