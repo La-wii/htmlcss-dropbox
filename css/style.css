@@ -85,6 +85,10 @@ h1{
     padding-bottom: 20px;
 }
 
+.btn-prova-gratuita{
+    background-color: #0061ff;
+}
+
 .prova-gratuita span a{
     color: black;
 }
