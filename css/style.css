@@ -418,6 +418,7 @@ footer{
     width: 20%;
     padding: 20px;
     margin-top: 100px;
+    margin-bottom: 50px;
 }
 
 footer h4{
@@ -434,4 +435,14 @@ footer ul li a{
     color: white;
     font-size: 14px;
 }
+
+.footer-bottom{
+    padding-left: 15px;
+}
+
+.footer-bottom span{
+    color: grey;
+    font-size: 14px;
+}
+
 
