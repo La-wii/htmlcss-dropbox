@@ -89,6 +89,10 @@ h1{
     background-color: #0061ff;
 }
 
+.btn-b-hover:hover{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
 .prova-gratuita span a{
     color: black;
 }
