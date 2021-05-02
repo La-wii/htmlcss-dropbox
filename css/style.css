@@ -404,12 +404,17 @@ h1{
     height: 280px;
     line-height: 280px;
 }
+
+.btn-cta-white{
+    border: 1px solid black;
+}
+
 .btn-cta a{
     text-decoration: none;
     color: black;
     background-color: white;
     padding: 12px 18px;
-}
+}   
 
 /* inizio faq */
 .faq{
