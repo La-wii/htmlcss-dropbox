@@ -589,21 +589,42 @@ footer ul li a{
 
 .fixed-chat:hover .content-chat{
     display: block;
-    height: 400px;
-    width: 250px;
+}
+
+.fixed-chat:hover .chat-img{
+    display: none;
+}
+
+.content-chat{
+    display: none;
     background-color: white;
     margin-right: 50px;
     padding: 20px;
     color: black;
 }
 
-
-/* .start-chat{
+.content-chat-header{
     background-color: blue;
-    text-decoration: none;
     color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.content-chat-header span{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.start-chat{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
     padding: 10px 20px;
-} */
+    text-transform: uppercase;
+}
 
 
 
