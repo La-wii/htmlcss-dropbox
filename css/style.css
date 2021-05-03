@@ -35,7 +35,8 @@ nav{
 
 .logo{
     width: 150px;
-    margin: 23px 15px;   
+    margin: 23px 30px;
+    /* vertical-align: middle; */
 }
 
 .float-right{
@@ -601,6 +602,7 @@ footer ul li a{
     font-size: 14px;
 }
 
+/* inizio chat */
 .fixed-chat{
     background-color: transparent;
     position: fixed;
@@ -622,6 +624,7 @@ footer ul li a{
     display: none;
 }
 
+/* inizio contenuto chat */
 .content-chat{
     display: none;
     background-color: white;
