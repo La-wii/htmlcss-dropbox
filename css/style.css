@@ -386,12 +386,59 @@ h1{
     height: 400px;
 }
 
+.square{
+    width: 50%;
+    height: 50%;
+    float: left;
+    text-align: center;
+}
+
+.design-it{
+    background-color: #a2d39b;
+}
+
+.arizona-university{
+    background-color: #61082b;
+}
+
+.university-of-florida{
+    background-color: #193ce0;
+}
+
+.topps{
+    background-color: #fe1d1b;
+}
+
+.square-img{
+    width: 60%;
+    filter: invert(1);
+}
+
+.world-bicycle{
+    background-color: #d5021e;
+}
+
+.hearst-corp{
+    background-color: #b4d0e7;
+}
+
+.lonely-planet{
+    background-color: #0d2481;
+}
+
+.clear-channel{
+    background-color: #ffd830;
+}
+
+
+/* inizio col big text */
 .col-big-text{
     float: left;
     width: 40%;
     background-color: yellow;
     height: 400px;
 }
+
 
 /* inizio dropbox cta */
 .dropbox-cta{
