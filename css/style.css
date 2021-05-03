@@ -365,7 +365,8 @@ h1{
 
 /* inizio team */
 .team-dropbox{
-    height: 250px;
+    margin-bottom: 80px;
+    margin-top: 80px;
 }
 
 .team-dropbox h2{
@@ -385,7 +386,6 @@ h1{
     float: left;
     width: 30%;
     background-color: cadetblue;
-    height: 400px;
 }
 
 .square{
@@ -472,7 +472,6 @@ h1{
     background-color: #f5f5f5;
     padding: 40px;
     overflow-y: auto;
-    height: 400px;
 }
 
 .col-big-text-img{
