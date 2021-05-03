@@ -301,6 +301,10 @@ h1{
     font-size: 30px;
 }
 
+.line-height-p{
+    line-height: 1.8;
+}
+
 .btn-white{
     color: black;
     background-color: white;
