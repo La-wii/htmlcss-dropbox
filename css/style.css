@@ -51,20 +51,19 @@ nav ul li{
     margin-left: 15px;
 }
 
-nav ul li:hover{
-    padding-bottom: 30px;
-    border-bottom: 3px solid black;
-}
-
 nav ul li a{
     text-decoration: none;
     color: black;
     margin-right: 20px;
 }
 
+nav ul li:hover{
+    padding-bottom: 30px;
+    border-bottom: 3px solid black;
+}
+
 .dropdown-bonus{
     display: none;
-    border-bottom: ;
 }
 
 .dropdown:hover .dropdown-bonus{
@@ -618,7 +617,7 @@ footer ul li a{
     font-size: 14px;
 }
 
-/* inizio chat */
+/* inizio chat fissa */
 .fixed-chat{
     background-color: transparent;
     position: fixed;
