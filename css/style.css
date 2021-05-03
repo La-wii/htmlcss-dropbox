@@ -391,6 +391,12 @@ h1{
     text-align: center;
 }
 
+.square-img{
+    width: 60%;
+    filter: invert(1);
+    padding-top: 50px;
+}
+
 .design-it{
     background-color: #a2d39b;
 }
@@ -421,11 +427,6 @@ h1{
 
 .topps:hover{
     border: 10px solid #fe8e8e;
-}
-
-.square-img{
-    width: 60%;
-    filter: invert(1);
 }
 
 .world-bicycle{
