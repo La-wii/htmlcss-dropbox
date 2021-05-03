@@ -544,7 +544,8 @@ h1{
 
 /* inizio faq */
 .faq{
-    padding-bottom: 150px;   
+    padding-bottom: 150px;
+    position: relative;   
 }
 
 .faq h4{
@@ -559,6 +560,11 @@ h1{
     margin-top: 40px;
     padding-bottom: 40px;
     border-bottom: 1px solid black;
+}
+
+.chevron-down{
+    position: absolute;
+    right: 200px;
 }
 
 .faq ul li:hover{
