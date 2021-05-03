@@ -574,4 +574,39 @@ footer ul li a{
     font-size: 14px;
 }
 
+.fixed-chat{
+    background-color: transparent;
+    position: fixed;
+    right: 0;
+    bottom: 50px;
+}
+
+.chat{
+    color: blue;
+    font-size: 50px;
+    margin-right: 50px;
+}
+
+.fixed-chat:hover .content-chat{
+    display: block;
+    height: 400px;
+    width: 250px;
+    background-color: white;
+    margin-right: 50px;
+    padding: 20px;
+    color: black;
+}
+
+
+/* .start-chat{
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+} */
+
+
+
+
+
 
