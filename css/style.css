@@ -376,9 +376,23 @@ h1{
 
 /* inizio overview team */
 .overview-team{
-    background-color: royalblue;
-    height: 500px;
+    height: 600px;
 }
+
+.col-square{
+    float: left;
+    width: 30%;
+    background-color: cadetblue;
+    height: 400px;
+}
+
+.col-big-text{
+    float: left;
+    width: 40%;
+    background-color: yellow;
+    height: 400px;
+}
+
 /* inizio dropbox cta */
 .dropbox-cta{
     background-color: #b4d0e7;
