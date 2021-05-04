@@ -21,13 +21,17 @@ nav{
     top: 0;
     left: 0;
     right: 0;
-    position: relative;
+    border-bottom: 1px solid black;
 }
 
 .clearfix::after{
     content: '';
     display: table;
     clear: both;
+}
+
+.content-nav{
+    position: relative;
 }
 
 .float-left{
